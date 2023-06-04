@@ -4,7 +4,9 @@ Travel Booking and Renting Web app built on top of MERN stack (UNDER DEVLOPEMENT
 APP uses morden React, Redux, NodeJS, ExpressJs, MongoDB, VS code
 
 ⚙️ Detailed Functionality
-.
+. Type in the destination and date of travel. SELECT from our personalised travel guide (train/flight/bus/cab -> hotels -> prefered places -> return train/flight/bus/cab). its that simple. 
+. After entering destination and date of travel we will let our user know about (How amny travellers are going to the destinmation at that date/ how many groups are going to the destination(will have guide, places, travel modes atc)/ our recommended personalised travel package). 
+. User will be able to select the travel mode, hotels and places to visit section(can have guide here). and later on can edit these as well depending on the availability.
 
 Will try to add Functions like:
 Real-time tracking: Allow users to track the status of their booking in real time, including the departure and arrival times, gate changes, and delays. This will help to keep users informed and reduce stress.
